@@ -1,0 +1,36 @@
+h1
+{
+    color:white;
+}
+
+h3
+{
+color:ghostwhite;
+}
+
+body
+{
+    background-image:url(https://image.freepik.com/free-vector/circuit-board-background-flat-style_52683-15669.jpg) ;
+    padding: 10px;
+}
+
+#div1
+{
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+#div2
+{
+    margin-left: 450px;
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+#btn_login
+{
+    background-color: midnightblue;
+    color: white;
+    border-radius: 4px;
+}
